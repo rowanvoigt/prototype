@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ebd9d1031bd03ce4e939a25a69402d6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 396854
+  packageName: 3D Tile Painter - DEMO
+  packageVersion: 1.0
+  assetPath: Assets/3DTileCreator/Scripts/3DBlockData.cs
+  uploadId: 981696

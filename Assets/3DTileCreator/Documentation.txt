@@ -1,0 +1,30 @@
+# Tile Painter 3D - Quick Start Guide
+
+Welcome to Tile Painter 3D! This lightweight and intuitive tool allows you to build modular 3D environments directly inside the Unity Scene view using a custom grid system and smart auto-tiling.
+
+## Getting Started
+
+1. **Setup the Component**: 
+   - Add the `TilePainter3D` component to any GameObject in your scene.
+   - Configure your base grid settings (such as `Cell Size` and assign your `Selected Block` from your block library).
+
+2. **Open the Editor Tools**:
+   - Select your GameObject with the `TilePainter3D` component.
+   - In the Inspector, you will find the **Block Library** preview window and the **3D Paint Tools** control panel.
+
+## How to Paint & Erase
+
+1. **Activate Paint Mode**: 
+   - Click the **Paint** button in the Inspector. The button will turn green to indicate active mode.
+2. **Paint on the Grid**:
+   - Hover your mouse over the visual grid in the Scene view. A cyan wireframe cube will show you where the block will be placed.
+   - **Left-Click** or **Click and Drag** on the grid to place tiles.
+   - **Change Heights**: Use your mouse **Scroll Wheel** while hovering in the Scene view to move up and down through floors/height levels instantly.
+3. **Activate Erase Mode**:
+   - Click the **Erase** button (it will turn red). 
+   - Click on any existing block in the scene to remove it.
+
+## Additional Controls
+
+- **Undo / Redo**: Use the built-in `Undo` and `Redo` buttons in the Inspector to step backward or forward through your building history seamlessly.
+- **Clear Grid**: Use the **Clear Grid** button (with safety confirmation) to wipe the entire grid workspace clean when needed.
