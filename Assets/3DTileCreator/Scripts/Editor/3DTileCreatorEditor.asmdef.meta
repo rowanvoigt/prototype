@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a95b0c091f7b3d7488f5d938a5e5c6f9
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 396854
+  packageName: 3D Tile Painter - DEMO
+  packageVersion: 1.0
+  assetPath: Assets/3DTileCreator/Scripts/Editor/3DTileCreatorEditor.asmdef
+  uploadId: 981696
